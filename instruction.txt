@@ -1,0 +1,10 @@
+Please follow the instruction for setting-up the project
+
+1.Checkout project from git.
+2.Add the db in your local location and mention it in application property file
+Eg:
+spring.datasource.url=jdbc:h2:file:D:/D3/shopping_cart
+3.Try clean compile install
+4.Please use Java 1.8 if build fails.
+5.Test the application by using the url 
+   localhost:port/testApi
