@@ -1,0 +1,9 @@
+com\shoppingapp\controller\ProductController.class
+com\shoppingapp\ShoppingCartApplication.class
+com\shoppingapp\pojo\ProductDataPojo.class
+com\shoppingapp\model\Products.class
+com\shoppingapp\service\CheckoutService.class
+com\shoppingapp\service\ProductsService.class
+com\shoppingapp\controller\CheckoutController.class
+com\shoppingapp\pojo\ProductPojo.class
+com\shoppingapp\repository\ProductsRepository.class
